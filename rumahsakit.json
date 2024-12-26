@@ -1,0 +1,2 @@
+{"_id":{"$oid":"676caaed02a5c63ba8fe6911"},"nama pasien":"ipul","Tanggal lahir":"12 juni 2021","jenis kelamin":"laki-laki","Alamat Rumah":"jalan duri baru","nomor telepon":"085681439819","Nomor remakam medis":"211212","Status pasien":"rawat jalan"}
+{"_id":{"$oid":"676cac6602a5c63ba8fe6912"},"nama dokter":"imron","spesialisasi":"dokter umum","nomer telepon":"08563819272","Email":"imron23@gmail.com","jadwal prakter":"senin 08.00-10.00"}
